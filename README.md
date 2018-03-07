@@ -1,5 +1,5 @@
 # blob_colocalisation3d
-3d blob colocalisation<br/>
+3d blobs/particles colocalisation<br/>
 
 | INPUT | INPUT | OUTPUT |
 | ------------- | ------------- | ------------- |
